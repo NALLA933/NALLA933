@@ -1,120 +1,46 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Piyush! 👋</h1>
 
-```
-𓆩 ══════════════════════════════════════════════════════ 𓆪
-```
+<h3 align="center">Backend Developer | Bot Creator | Tech Enthusiast 🚀</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=NALLA933+%F0%9F%94%A5;Telegram+Bot+Developer;Python+%E2%80%A2+Go+%E2%80%A2+AWS;𝕾𝖊𝖓𝖕𝖆𝖎+𝕬𝖗𝖈𝖍𝖎𝖙𝖊𝖈𝖙" alt="Typing SVG" />
+<p align="center">
+  Welcome to my GitHub profile! I specialize in building robust backend systems, AI tools, and interactive bots. I love turning complex problems into clean, efficient code.
+</p>
 
-```
-𓆩 ══════════════════════════════════════════════════════ 𓆪
-```
+---
 
-</div>
+### 🤖 My Telegram Bots (Try them out!)
 
-<br/>
+Here are some of my live projects. Feel free to interact with them on Telegram:
 
-<div align="center">
-  
-> **`𓆩 NO UPDATES. JUST UPGRADES. 𓆪`**
+* 🎧 **[@BakaMusic_Bot](https://t.me/BakaMusic_Bot)** - Your ultimate companion for high-quality music streaming right inside Telegram.
+* 🎵 **[@Senpai_Music_Bot](https://t.me/Senpai_Music_Bot)** - Next-level music bot with advanced features for your group chats.
 
-</div>
+---
 
-<br/>
+### 💻 Tech Stack & Tools
 
-## ⚡ `whoami`
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-```python
-class Senpai:
-    name       = "Piyush"
-    alias      = "NALLA933"
-    pronouns   = "he/him"
-    
-    stack      = ["Python", "GoLang", "Pyrogram", "TDLib"]
-    cloud      = ["AWS EC2", "MongoDB Atlas"]
-    currently  = "Building Telegram Bots at scale 🤖"
-    
-    def greet(self):
-        return "𓆩 𝕾𝖊𝖓𝖕𝖆𝖎 𝖍𝖆𝖘 𝖊𝖓𝖙𝖊𝖗𝖊𝖉 𝖙𝖍𝖊 𝖈𝖍𝖆𝖙. 𓆪"
-```
+---
 
-<br/>
+### 📊 GitHub Stats
 
-## 🛠️ `tech.stack`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NALLA933&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush's GitHub Stats" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NALLA933&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00F5FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F5FF)
-![AWS](https://img.shields.io/badge/AWS_EC2-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=00F5FF)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-0D1117?style=for-the-badge&logo=telegram&logoColor=00F5FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5FF)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
+---
 
-</div>
-
-<br/>
-
-## 🤖 `active.projects`
-
-```
-𓆩━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━𓆪
-```
-
-| Project | Stack | Status |
-|--------|-------|--------|
-| 🎵 **@SenpaiMusicBot** | Python • Pyrogram • yt-dlp | 🟢 Live |
-| 🎵 **@BakaMusicBot** | Python • AWS EC2 | 🟢 Live |
-| 🤖 **Senpai AI Bot** | Python • Groq • MongoDB | 🔨 Building |
-| ⚡ **GoLang Scale Bot** | Go • TDLib • Worker Pools | 📐 Designing |
-
-```
-𓆩━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━𓆪
-```
-
-<br/>
-
-## 📊 `github.stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NALLA933&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NALLA933&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NALLA933&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
-
-</div>
-
-<br/>
-
-## 🌐 `connect.with.me`
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/➥_Senpai_Music_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=00F5FF)](https://t.me/Senpai_Music_Bot)
-[![Telegram](https://img.shields.io/badge/➥_Baka_Music_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=00F5FF)](https://t.me/BakaMusic_Bot)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-𓆩 ══════════════════════════════════════════════════════ 𓆪
-
-   𝕾𝖊𝖓𝖕𝖆𝖎 𝖍𝖆𝖘 𝖑𝖊𝖋𝖙 𝖙𝖍𝖊 𝖈𝖍𝖆𝖙.  ➥  𝕮𝖔𝖉𝖊 𝖗𝖊𝖒𝖆𝖎𝖓𝖘.
-
-𓆩 ══════════════════════════════════════════════════════ 𓆪
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NALLA933&color=00F5FF&style=for-the-badge&label=VISITORS)
-
-</div>
+<p align="center">
+  <i>"No updates, just upgrades."</i>
+</p>
